@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Classic-Brawl v29 Remake 👋</h1>
+<h1 align="center">Welcome to Classic-Brawl v27 Remake 👋</h1>
 
 Open source Brawl Stars server emulator for version 27 of the game! (Remake)
 
